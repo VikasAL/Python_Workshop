@@ -1,2 +1,2 @@
-# <h1>Python Workshop<h1>
-# Applications of Python Programming in DA and ML - Reaserch perspective
+# Python Workshop
+# <h3>Applications of Python Programming in DA and ML - Reaserch perspective<h3>
